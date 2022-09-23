@@ -13,3 +13,9 @@
 
 - [Slides](https://docs.google.com/presentation/d/1e_hXkSMgAf24LKCe5TcD0_IPWLp-KRbUrhIRBf7WATQ/edit?usp=sharing)
 - [Exercises](https://github.com/cjleggett/2022-section/tree/main/section3)
+
+
+## Week 4:
+
+- [Slides](https://docs.google.com/presentation/d/1B4Bzlak8fVEOH-HHgnUWF4rKPcCfvRv0glIMHSbn68U/edit?usp=sharing)
+- [Exercises](https://github.com/cjleggett/2022-section/tree/main/section4)
